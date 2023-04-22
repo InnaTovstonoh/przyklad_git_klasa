@@ -8,5 +8,6 @@ public class Osoba {
     }
     public String getInfo(){
         return "Imie: " + this.imie + " Nazwisko: " + this.nazwisko;
+
     }
 }
